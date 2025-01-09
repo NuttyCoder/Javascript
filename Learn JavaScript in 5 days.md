@@ -25,7 +25,10 @@
 
 **Understanding Variables**: Learn the difference between `var`, `let`, and `const` and when to use each.
 
-| Example: var name \= 'John'; let age \= 30; const isDeveloper \= true |
+| Example: 
+var name \= 'John'; 
+let age \= 30; 
+const isDeveloper \= true |
 | :---- |
 
 **Primitive Data Types**: Explore the basic data types such as Number, String, Boolean, Null, Undefined, and Symbol.
